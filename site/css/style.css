@@ -1,0 +1,22 @@
+body{
+	color: green;
+	font-size: 15px;
+	background-color: pink;
+	font-family: 'Oxygen', sans-serif;
+
+}
+
+#header-nav{
+	background-color: #6f42c1;
+	border-radius: 0;
+	border:0;
+	height:150px;
+}
+#logo-img{
+	background-image: url('images.png');
+	background-repeat: no-repeat;
+	background-position: right top;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+}
